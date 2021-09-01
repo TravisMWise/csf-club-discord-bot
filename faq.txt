@@ -1,0 +1,19 @@
+What is this the CSF club?:
+  Use "!about" for more information!
+
+How can I join?:
+  Use "!registration" for more information!
+
+What can I do if I join?:
+  Use "!current_projects" for more information!
+
+What is a CubeSat?:
+  A CubeSat is a standardized satellite defined by its form factor. Each unit or U is 10cm cubed. The purpose of a CubeSat is to leverage the miniaturization of electronics to increase access to space by driving down costs. Projects are typically focused on Earth observation, astrophysics, planetary sciences, and technology demonstrations. By joining CSF, you will have access to material which describes CubeSat development more thoroughly. 
+
+How are non-engineers involved?: 
+  Non-engineering students can contribute through marketing, project proposals, project management, and budgeting. We are actively seeking candidates for the position of treasurer. If you are interested, please message Austin or Thalia to get you on-board.
+ 
+I lack experience, can I still contribute?: 
+  Of course! CSF is founded on the premise of sharing knowledge and growing through practice. Check out our training drive to become more skilled in your field and get working on a project ASAP. Experience is the best teacher. 
+ 
+https://drive.google.com/drive/folders/16pmHKkKAcJihjEnJ13atW3ARhfqujCOL?usp=sharing

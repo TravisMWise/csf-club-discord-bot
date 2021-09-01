@@ -1,0 +1,9 @@
+We currently have various projects being developed
+
+1. 2 DIY CubeSats that will be launched on a weather balloon to study atmoshperic chemistry and train our engineers in SmallSat development
+2. NASA Lunar Torch Design Competition: Rover subsystem design to redirect light into lunar tunnels and craters, heat-up cold electronics, and 
+3. NASA BIG Idea Challenge: designing lunar rover with non-traditional mobility systems (no-wheels)
+4. University Student Design Challenge: A design competition hosted by NASA Glen. Details will be released in the Fall semester
+5. PlantSat: a senior-design project sponsored by NASA KSC focused on developing growing food in orbit without human interaction. 
+
+When you fill out the Google Form after paying your dues, please indicate which projects you are interested in. 
